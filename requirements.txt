@@ -1,0 +1,5 @@
+ujson==2.0.3
+redis==3.3.11
+pymongo==3.9.0
+simplejson==3.17.0
+requests==2.24.0
