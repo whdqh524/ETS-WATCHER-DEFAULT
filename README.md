@@ -1,2 +1,1 @@
-# ETS-Spot-WatcherD
 # ETS-WATCHER-DEFAULT
